@@ -1,0 +1,16 @@
+body{
+    background: rgb(23,224,188);
+background: linear-gradient(90deg, rgba(23,224,188,1) 0%, rgba(152,206,0,1) 100%);
+}
+.animation-data{
+    animation: pop linear .3s;
+}
+
+@keyframes pop{
+    from{
+        transform: scale(0.1);
+    }
+    to{
+        transform: scale(1);
+    }
+}
