@@ -31,9 +31,9 @@ useEffect(() => {
 
   return (
     <>
-    <nav className=' w-full h-20 bg-gradient-to-r from-[#350068] to-[#FF6978] flex justify-between items-center'>
+    <nav className=' w-full h-20 bg-gradient-to-r from-[#350068] to-[#FF6978] flex justify-between items-center px-3'>
       <div className="container flex justify-between items-center">
-        <img className=' w-[200px] h-[60px]' src="./public/logo.png" alt="logo" />
+        <img className=' w-[200px] h-[60px]' src="./logo.png" alt="logo" />
         <ul className=' flex gap-5'>
           <button onClick={()=>changer(carData)} className=' w-[100px] h-[50px] bg-gradient-to-r from-[#FCFB62] to-[#1affd1] rounded-3xl text-2xl font-bold'>All</button>
           <button onClick={()=>buttonPlay('Supercar')} className=' w-[160px] h-[50px] bg-gradient-to-r from-[#91F1EF] to-[#FFD5E0] rounded-2xl text-xl font-medium flex justify-center items-center gap-2 hover:bg-white'><IoCarSportSharp className=' text-3xl'/>Supercars</button>
