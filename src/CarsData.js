@@ -43,7 +43,7 @@ const carData = [
         "horsepower": 420,
         "discount_price": null,
         "actual_price": "$41,000",
-        "image_url": "https://edgecast-img.yahoo.net/mysterio/api/D7BE514F948C955B1ACF37AC5BCB072A3AF637DBD98534F4FFF935ECD462970A/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/http://s.aolcdn.com/commerce/blogcdn/www.autoblog.com/media/2012/05/01-2012-porsche-panamera-turbo-s-review.jpg"
+        "image_url": "https://media.ed.edmunds-media.com/porsche/panamera/2015/oem/2015_porsche_panamera_sedan_4s_fq_oem_1_600.jpg"
     },
     {
         "id": 6,
@@ -57,11 +57,11 @@ const carData = [
     {
         "id": 7,
         "category": "SUV",
-        "model": "Mercedes-Benz ML",
-        "horsepower": 367,
-        "discount_price": null,
-        "actual_price": "$45,000",
-        "image_url": "https://i.gaw.to/content/photos/12/29/122974_2013_Mercedes-Benz_M_Class.jpg"
+        "model": "Mercedes G63 AMG",
+        "horsepower": 592,
+        "discount_price": "$75,000",
+        "actual_price": "$90,000",
+        "image_url": "https://car-images.bauersecure.com/wp-images/13656/mercedesg63amg03.jpg"
     },
     {
         "id": 8,
@@ -79,7 +79,7 @@ const carData = [
         "horsepower": 434,
         "discount_price": "$45,000",
         "actual_price": "$55,000",
-        "image_url": "https://maessencsc.com/wp-content/uploads/2023/12/Porsche-Cayenne-Turbo-Zwart-1-1.jpg"
+        "image_url": "https://images.collectingcars.com/058594/mainimage.jpg?w=1263&fit=fillmax&crop=edges&auto=format,compress&cs=srgb&q=85"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@ const carData = [
         "horsepower": 661,
         "discount_price": "$220,000",
         "actual_price": "$280,000",
-        "image_url": "https://www.carscoops.com/wp-content/uploads/2020/03/Ferrari-F8-Tributo.jpg"
+        "image_url": "https://spots.ag/2023/05/02/ferrari-f8-tributo-c832002052023235351_1.jpg?1683064470"
     },
     {
         "id": 12,
@@ -124,7 +124,7 @@ const carData = [
         "horsepower": 572,
         "discount_price": "$190,000",
         "actual_price": "$270,000",
-        "image_url": "https://www.alainclass.com/wp-content/uploads/2020/03/reshoot-szr-2018-Porsche-911-GT2-RS-Weissach-Package-BLUE-81657-3.jpg"
+        "image_url": "https://spots.ag/2019/11/03/porsche-991-gt2-rs-weissach-package-c283603112019183159_1.jpg"
     },
     {
         "id": 15,
@@ -133,7 +133,7 @@ const carData = [
         "horsepower": 630,
         "discount_price": "$160,000",
         "actual_price": "$220,000",
-        "image_url": "https://www.supervettura.com/blobs/Cars/7/25a90dfb-fc1d-4635-88af-252b38248b11.jpg?width=1920&height=1080&mode=crop"
+        "image_url": "https://spots.ag/2023/07/09/aston-martin-dbs-c841309072023080633_1.jpg?1688882830"
     },
     {
         "id": 16,
@@ -142,7 +142,7 @@ const carData = [
         "horsepower": 385,
         "discount_price": "$75,000",
         "actual_price": "$105,000",
-        "image_url": "https://scontent.fdac139-1.fna.fbcdn.net/v/t1.6435-9/122291430_3744746575535499_8567150285291035372_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=06a7ca&_nc_eui2=AeG-W94jJ8OJjKCa54hGQ7tfv0rjaNxaM3m_SuNo3FozeUvjzQE2LF7JNV8hMpiQltD-6hdBjOe6IGRGiR4rJ4ga&_nc_ohc=pJGake0sqkMQ7kNvgFDtPSV&_nc_ht=scontent.fdac139-1.fna&oh=00_AYA_leeQhBYfYvzpkNr7B1z6iQMdrUI4ielzRuwACaEtkQ&oe=66B91439"
+        "image_url": "https://spots.ag/2021/08/15/jaguar-xfr-2011-c861115082021113228_1.jpg?1629019955"
     },
     {
         "id": 17,
@@ -151,7 +151,7 @@ const carData = [
         "horsepower": 700,
         "discount_price": null,
         "actual_price": "$130,000",
-        "image_url": "https://car-images.bauersecure.com/wp-images/12143/bentleysupersports_02.jpg"
+        "image_url": "https://spots.ag/2017/09/11/bentley-continental-supersports-coupe-2018-c101911092017210854_1.jpg"
     },
     {
         "id": 18,
@@ -160,7 +160,7 @@ const carData = [
         "horsepower": 634,
         "discount_price": "$63,000",
         "actual_price": "$70,000",
-        "image_url": "https://f90.bimmerpost.com/forums/attachment.php?attachmentid=2941082&stc=1&d=1658865585"
+        "image_url": "https://www.platinumautohaus.com/imagetag/14364/9/l/Used-2021-BMW-M5.jpg"
     },
     {
         "id": 19,
@@ -169,7 +169,7 @@ const carData = [
         "horsepower": 565,
         "discount_price": "$120,000",
         "actual_price": "$190,000",
-        "image_url": "https://www.hardwarezone.com.sg/thumbs/705610/og.jpg?1194"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/R8_Coupe_V10_performance-1.jpg/560px-R8_Coupe_V10_performance-1.jpg"
     },
     {
         "id": 20,
@@ -210,13 +210,12 @@ const carData = [
     {
         "id": 24,
         "category": "SUV",
-        "model": "Mercedes G53 AMG",
-        "horsepower": 550,
-        "discount_price": "$75,000",
-        "actual_price": "$90,000",
-        "image_url": "https://spots.ag/2015/03/14/mercedes-benz-g-63-amg-2012-c141614032015192620_1.jpg"
+        "model": "Jeep Trackhawk",
+        "horsepower": 707,
+        "discount_price": null,
+        "actual_price": "$70,000",
+        "image_url": "https://i.pinimg.com/originals/f9/a1/e4/f9a1e441554bcd81518f18871b3ed5a9.jpg"
     },
-    
     {
         "id": 25,
         "category": "Supercar",
@@ -224,9 +223,9 @@ const carData = [
         "horsepower": 623,
         "discount_price": null,
         "actual_price": "$250,000",
-        "image_url": "https://i.pinimg.com/originals/55/c1/bc/55c1bcb2bc55764fe1b7f184e06ef700.jpg"
+        "image_url": "https://spots.ag/2020/03/16/lamborghini-gallardo-lp570-4-superleggera-c975716032020120728_3.jpg"
     }
 ]
 
 export default carData
-
+        

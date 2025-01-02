@@ -48,7 +48,7 @@ useEffect(() => {
             primary.map((product, n)=>(
               <div key={n} className="mainbox">
 
-              <div  className="  w-[300px] h-[360px] bg-gradient-to-r from-[#93A5CF] to-[#E4EfE9] rounded-md mb-6">
+              <div  className="  w-[300px] h-[400px] bg-gradient-to-r from-[#93A5CF] to-[#E4EfE9] rounded-md mb-6">
                 <div>
                     
 
@@ -57,7 +57,7 @@ useEffect(() => {
                     <h1 className=' absolute z-[1] bg-gradient-to-r from-[#FF512F] to-[#DD2476] rounded-lg mt-3 ml-4 text-xl text-[#fff] font-bold'>Offer!</h1>
                   }
                   
-            <img className=' w-full h-[180px] rounded-t-md mb-5 relative' src={product.image_url} alt="Car Image" />
+            <img className=' w-full h-[200px] rounded-t-md mb-5 relative' src={product.image_url} alt="Car Image" />
             </div>
             <h1 className=' text-center font-bold text-3xl'>{product.model}</h1>
             <h2 className='text-center font-semibold text-xl mt-3 text-[#12166c] '>Horsepower: {product.horsepower} hp</h2>
