@@ -31,15 +31,15 @@ function App() {
 
   return (
     <>
-      <nav className="w-full h-20 bg-gradient-to-r from-[#350068] to-[#FF6978] flex items-center px-3">
+      <nav className="w-full h-20 bg-gradient-to-r from-[#243eff] to-[#350068] flex items-center px-3">
         <div className="container flex justify-between items-center">
-          <img className="w-[150px] sm:w-[200px] h-[40px] sm:h-[60px]" src="./logo.png" alt="logo" />
-          <button
+          <img className="w-[100px] sm:w-[180px] h-[40px] sm:h-[60px]" src="./logo.png" alt="logo" />
+          <butto
             className="lg:hidden text-white text-2xl focus:outline-none"
             onClick={() => setMenuOpen(!menuOpen)}
           >
             &#9776;
-          </button>
+          </butto>
           <ul
             className={`${menuOpen ? "flex" : "hidden"} lg:flex flex-col lg:flex-row gap-2 z-50 sm:gap-5 items-center w-full lg:w-auto absolute lg:static top-20 lg:top-auto left-0 lg:left-auto bg-purple-700 lg:bg-transparent px-4 lg:px-0 py-4 lg:py-0`}
           >
